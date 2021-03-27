@@ -1,0 +1,7 @@
+.vscode/
+
+logs/
+data/
+checkpoint/
+__pycache__/
+models/__pycache__/
